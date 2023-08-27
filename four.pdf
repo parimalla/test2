@@ -1,0 +1,4 @@
+$ find . -name "*.txt"
+./second.txt
+./three.txt
+[A[A[A[C[[B[B[B
